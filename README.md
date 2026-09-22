@@ -63,6 +63,3 @@ This repository contains a four-page CodeIgniter 4 website for IT0049 Technical 
 - Confirm that five rows appear on both listing pages.
 - Resize the browser to confirm the layout works on a smaller screen.
 
-## Submission note
-
-This activity does not use a database, so there is no database export. If the submission form requires one, include a short note stating: **“No database export is included because the activity requires static PHP arrays as the temporary data source.”**
