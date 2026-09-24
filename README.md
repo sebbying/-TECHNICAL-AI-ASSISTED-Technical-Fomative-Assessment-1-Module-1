@@ -1,4 +1,4 @@
-# SimplePOS — CodeIgniter 4 MVC Activity
+# SimplePOS — CodeIgniter 4 MVC
 
 This repository contains a four-page CodeIgniter 4 website for IT0049 Technical Formative Assessment 1. It demonstrates routes, controllers, views, navigation, view data, and `foreach` loops using static PHP arrays. No database is used in this version.
 
